@@ -2,6 +2,8 @@
 
 黑马程序员瑞吉外卖 https://www.bilibili.com/video/BV13a411q753/
 
+求求你简历别写电商了吧，面试官都看腻了，推荐6个Java实战项目 https://www.bilibili.com/video/BV1LQ4y1v7W9/
+
 不过重点应该是尝试 test to learn 的方法，做两次项目，
 
 - 第一次跟着视频做，
