@@ -1,4 +1,4 @@
-# ruiji-waimai
+# 瑞吉外卖
 
 黑马程序员瑞吉外卖 https://www.bilibili.com/video/BV13a411q753/
 
@@ -16,3 +16,4 @@
 - 怎么把 [vivo商城前端架构升级-总览篇](https://mp.weixin.qq.com/s/vD9yvYNaxTQBLABik6aqNg) 的重构思想应用到里面
 
 要弄的话，没完没了。
+
