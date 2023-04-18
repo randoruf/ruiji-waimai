@@ -17,7 +17,7 @@
 
 要弄的话，没完没了。
 
-## 前置知识
+## Prerequisites 前置知识
 
 前置知识可以暂时不懂，因为要实践一下 ***"test to learn"*** 的学习方法。
 
@@ -37,5 +37,13 @@
 - Spring Boot
 - SSM (Spring, Spring MVC, MyBatis) 
 - Maven 
+
+
+## Learning Outcomes 学习收获
+
+- 了解**业务需求分析**的过程，锻炼**分析和设计能力**
+- 对所学技术进行灵活运用，锻炼**编程的工程能力**
+- 解决各种 bugs，学会使用 debug 工具，**提高 debug 能力**
+  - 将来参与工作的话，**起码有一半的时间会花在 debug 上面**。 
 
 
